@@ -1,0 +1,9 @@
+.venv/
+__marimo__/
+__pycache__/
+*.xes
+*.xes.gz
+*.pkl
+code02/
+code03/
+.DS_Store
